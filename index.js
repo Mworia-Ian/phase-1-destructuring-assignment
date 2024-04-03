@@ -68,5 +68,5 @@ const {album: {theMuppetMovie: { song2, song4 }}, nestedJob: kermitJob, nestedPa
 
 console.log(song2);
 console.log(song4);
-console.log(nestedJob);
-console.log(nestedPartner);
+console.log(kermitJob);
+console.log(kermitPartner);
